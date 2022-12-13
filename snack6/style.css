@@ -1,0 +1,12 @@
+.grey, .green{
+width: 200px;
+height: 200px;
+}
+
+.grey{
+    background-color: gray;
+}
+
+.green{
+    background-color: green;
+}
